@@ -1,0 +1,6 @@
+Total Sales: 10888624
+Top Performing Category: Electronics
+Chart Justification:
+- Line charts are used to visualize sales trends over time.
+- Bar charts compare total sales across categories clearly.
+- Pie charts show proportional sales contribution by category.
